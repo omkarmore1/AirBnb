@@ -1,0 +1,30 @@
+.second{
+    height: 50vh;
+    position: relative;
+    background: white;
+    
+}
+
+.s_info {
+    color: white;
+    text-transform: inherit;
+    margin-top: 20px;
+    font-weight: 600;
+}
+
+.s_info > button{
+    background-color: white;
+    color: black;
+    text-transform: inherit;
+}
+
+.s_info > h1 {
+    font-size: 32px;
+}
+
+.i_info{
+    background-image: url("../images/camel.png");
+    background-size: cover;
+    height: 20rem;
+    width: 25rem;
+}
